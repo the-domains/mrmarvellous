@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[mrmarvellous]]></title>
+        <description><![CDATA[mrmarvellous]]></description>
+        <link>https://thegrid.ai/mrmarvellous/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 21 Aug 2016 18:18:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mrmarvellous/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Marvellous day everyone! </p>]]></description>
+            <link>https://thegrid.ai/mrmarvellous/marvellous-day-everyone-this-is-my-first-entry-and-i-have/index.html</link>
+            <guid isPermaLink="false">c7a2e311-ce9d-4a3c-8f94-ccf1bbe6e233</guid>
+            <pubDate>Sun, 21 Aug 2016 18:18:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
