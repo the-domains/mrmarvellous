@@ -1,0 +1,28 @@
+name: mrmarvellous
+favicon: null
+layout_spectrum: 0.5715746732894331
+typography_spectrum: 0.3909501831512898
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9034312244039029
+  lightness: 0.8985989214852452
+  saturation: 0.8278226931579411
+  rhythmicContrast: 0.8386412588879466
+purpose: []
